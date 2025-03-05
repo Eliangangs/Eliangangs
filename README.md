@@ -24,13 +24,13 @@
       <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center"  width="96">
-      <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
       <img src="./img/git.svg" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
