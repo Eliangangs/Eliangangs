@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 🚀 About Me
+I'm a frontend developer
+
 > Tools, languages, and other things that I like to work with.
 
 <table>
@@ -38,3 +41,12 @@
     </td>
   </tr>
 </table>
+
+
+## Deployment
+
+Run the following command to make your day a little better
+
+```bash
+  npm run have-a-wonderful-day
+```
