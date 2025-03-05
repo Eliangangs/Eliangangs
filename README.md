@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/79079b2d-4ee0-4772-827e-adf7a74fb703)
 
 <!--
 **Eliangangs/Eliangangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
