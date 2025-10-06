@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a frontend developer
+Hi there! I'm a passionate frontend developer who loves creating beautiful and user-friendly web experiences. I'm always happy to learn, grow, and collaborate with kind and creative people.
 
 > Tools, languages, and other things that I like to work with.
 
@@ -22,16 +22,16 @@ I'm a frontend developer
       <br>Node.js
     </td>
     <td align="center" width="96">
+      <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="./img/git.svg" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
     </td>
     <td align="center" width="96">
       <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
@@ -41,7 +41,7 @@ I'm a frontend developer
 </table>
 
 
-## Deployment
+## 🚢 Deployment
 
 Run the following command to make your day a little better
 
